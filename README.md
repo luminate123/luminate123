@@ -86,7 +86,7 @@ const sebastian = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=luminate123&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=3fb950&hide=contribs,prs" height="140"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminate123&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminate123&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&hide=php,blade,hack&langs_count=6" height="140"/>
 
 </div>
 
