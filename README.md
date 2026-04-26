@@ -69,14 +69,15 @@ const sebastian = {
 
 ---
 
-## Proyectos destacados
+## Portafolio
 
-| Proyecto | Descripción | Estado | Stack |
-|---|---|---|---|
-| **[Página web 1](#)** | Descripción breve — qué hace y para quién | 🚧 En desarrollo | TypeScript |
-| **[Página web 2](#)** | Descripción breve — qué hace y para quién | 🚧 En desarrollo | TypeScript |
+<div align="center">
 
-> Agrega una descripción real a cada proyecto — es lo que más impacta a reclutadores y clientes.
+[![Portfolio](https://img.shields.io/badge/Ver_mi_portafolio-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://luminate123.github.io/portfolio-v2.0/)
+
+<sub>🔗 luminate123.github.io/portfolio-v2.0</sub>
+
+</div>
 
 ---
 
